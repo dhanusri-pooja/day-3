@@ -11,6 +11,7 @@ Then, I added a hover effect so when I move the mouse over the card, it:
 # How I Used CSS:
 
 - CSS is written inside a <style> tag (not external).
+
 - So the HTML and CSS are in the same file.
 
 # Code Used:
